@@ -1,9 +1,9 @@
 # 🚀 Cisco Packet Tracer Labs – Beginner to Intermediate + IoT & Wireless
 
-![GitHub Repo stars](https://img.shields.io/github/stars/saadoxyz/cisco-packet-labs?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/saadoxyz/cisco-packet-labs?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/saadoxyz/cisco-packet-labs?style=for-the-badge)
-![License](https://img.shields.io/github/license/saadoxyz/cisco-packet-labs?style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/saadoxyz/Configuration-of-basic-ciso-tasks?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/saadoxyz/Configuration-of-basic-ciso-tasks?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/saadoxyz/Configuration-of-basic-ciso-tasks?style=for-the-badge)
+![License](https://img.shields.io/github/license/saadoxyz/Configuration-of-basic-ciso-tasks?style=for-the-badge)
 
 ---
 
@@ -57,6 +57,7 @@ Each `.pkt` file is structured, commented, and designed for easy learning and re
 2. Open .pkt files with Cisco Packet Tracer 8.x
 
 3. Follow in-app instructions and run simulations 🚦
+---
 
 <svg width="500" height="140" xmlns="http://www.w3.org/2000/svg">
   <style>

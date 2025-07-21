@@ -58,32 +58,9 @@ Each `.pkt` file is structured, commented, and designed for easy learning and re
 
 3. Follow in-app instructions and run simulations 🚦
 ---
-
-<svg width="500" height="140" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    .title { font: bold 16px sans-serif; fill: #0aa; }
-    .box { fill: #444; stroke: #0ff; stroke-width: 2; rx: 5; }
-    .label { font: 13px sans-serif; fill: #fff; text-anchor: middle; }
-  </style>
-  <rect x="10" y="30" width="110" height="40" class="box" />
-  <text x="65" y="55" class="label">Router Config</text>
-
-  <rect x="130" y="30" width="110" height="40" class="box" />
-  <text x="185" y="55" class="label">VLAN Setup</text>
-
-  <rect x="250" y="30" width="110" height="40" class="box" />
-  <text x="305" y="55" class="label">Routing Protocols</text>
-
-  <rect x="370" y="30" width="110" height="40" class="box" />
-  <text x="425" y="55" class="label">IoT + Wireless</text>
-
-  <line x1="120" y1="50" x2="130" y2="50" stroke="#0ff" stroke-width="2" />
-  <line x1="240" y1="50" x2="250" y2="50" stroke="#0ff" stroke-width="2" />
-  <line x1="360" y1="50" x2="370" y2="50" stroke="#0ff" stroke-width="2" />
-</svg>
-
 💬 Contact
 📧 Email: saado652004@gmail.com
 🐙 GitHub: @saadoxyz
 
 
+---
